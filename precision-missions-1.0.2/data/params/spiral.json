@@ -1,0 +1,16 @@
+{
+  "type": "helix",
+  "parameters": {
+    "gps_lat": 37.411946,
+    "gps_lon": -121.993745,
+    "gps_msl": -9999,
+    "start_agl": 5,
+    "start_radius": 10.0,
+    "end_radius": 6.0,
+    "start_angle": 0.0,
+    "pitch": 2.0,
+    "rotations": 10,
+    "horizontal_speed": 5.0
+  }
+}
+
