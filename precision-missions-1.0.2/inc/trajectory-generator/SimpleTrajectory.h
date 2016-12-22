@@ -1,9 +1,15 @@
-//
-// Created by rohit on 12/13/16.
-//
+/*! @file SimpleTrajectory.h
+ *
+ *  @brief
+ *  Step-input trajectory. Unavailable in v1.0.2 Precision Missions/3.2 Onboard SDK
+ *
+ *  @copyright 2016 DJI. All rights reserved.
+ *  Unauthorized copying of this file via any medium is strictly prohibited.
+ *  Proprietary and confidential.
+ */
 
-#ifndef ONBOARDSDK_INTERNAL_SIMPLETRAJECTORY_H
-#define ONBOARDSDK_INTERNAL_SIMPLETRAJECTORY_H
+#ifndef DJI_SIMPLETRAJECTORY_H
+#define DJI_SIMPLETRAJECTORY_H
 
 #include <trajectory-follower/Trajectory.h>
 

@@ -1,9 +1,15 @@
-//
-// Created by rohit on 11/10/16.
-//
+/*! @file TrajectoryTCPInterface.h
+ *
+ *  @brief
+ *  See TrajectoryROSInterface class.
+ *
+ *  @copyright 2016 DJI Research LLC. All rights reserved.
+ *  Unauthorized copying of this file via any medium is strictly prohibited.
+ *  Proprietary and confidential.
+ */
 
-#ifndef ONBOARDSDK_INTERNAL_TRAJECTORYROSINTERFACE_H
-#define ONBOARDSDK_INTERNAL_TRAJECTORYROSINTERFACE_H
+#ifndef DJI_TRAJECTORYROSINTERFACE_H
+#define DJI_TRAJECTORYROSINTERFACE_H
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -99,4 +105,4 @@ class TrajectoryROSInterface: public ThreadHelper {
   TrajectoryFollower* trajectoryPtr;
 };
 
-#endif //ONBOARDSDK_INTERNAL_TRAJECTORYROSINTERFACE_H
+#endif //DJI_TRAJECTORYROSINTERFACE_H
