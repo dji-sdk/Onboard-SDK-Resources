@@ -1,16 +1,18 @@
 {
   "type": "helix",
   "parameters": {
-    "gps_lat": 37.411946,
-    "gps_lon": -121.993745,
-    "gps_msl": -9999,
-    "start_agl": 5,
-    "start_radius": 10.0,
-    "end_radius": 6.0,
+    "start_radius": 12.0,
     "start_angle": 0.0,
-    "pitch": 2.0,
-    "rotations": 10,
-    "horizontal_speed": 5.0
+    "start_agl": 4.0,
+    "end_radius": 10.0,
+    "pitch": 0.75,
+    "rotations": 4.0,
+    "horizontal_speed": 2.0,
+    "gps_lat": 37.412451,
+    "gps_lon": -121.995301,
+    "gps_msl": -9999,
+    "take_pictures": "yes",
+    "picture_interval": 2.0,
+    "take_video": "yes"
   }
 }
-
